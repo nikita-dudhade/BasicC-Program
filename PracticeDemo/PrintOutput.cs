@@ -8,10 +8,10 @@ namespace PracticeDemo
 {
     internal class PrintOutput
     {
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
                 
-        }
+        //}
 
     }
 }
